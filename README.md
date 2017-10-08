@@ -1,5 +1,4 @@
 # FBCommentPlugin
 
 
-<b>ehdf<b>
-efkjshkdb
+Using FB Comment Plugin in Android Application
